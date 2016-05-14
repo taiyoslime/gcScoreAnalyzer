@@ -14,7 +14,13 @@ module Groove
 		end
 
 		public
+		def getMyScore(id:@music_list.collect{ |el| el["music_id"] })
+			result = [] 
+			id.each { |mcid| result << @music_score.collect { |el| } }
+			result
+		end
 
+		private
 		def updateMusicScore(id:@music_list.collect{ |el| el["music_id"] })
 			result = []
 			id.each { |mcid| result << @network.getMusicData(mcid) }
@@ -25,12 +31,6 @@ module Groove
 			@network.getMusicList
 		end
 
-		def getMyScore(id:@music_list.collect{ |el| el["music_id"] })
-			result = []
-			#id.each { |mcid| result << @music_score.collect { |el| } }
-			id.each { |mcid| result << @network.getMusicData(mcid) }
-			result
-		end
 
 	end
 end
