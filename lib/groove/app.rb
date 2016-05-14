@@ -1,28 +1,23 @@
-require 'network'
+require_relative 'network'
+require_relative 'io'
 
 module Groove
 	class App
-
-		DIFFICULT = {
-			SIMPLE: 0,
-			NORMAL: 1,
-			HARD: 2,
-			EXTRA: 3
-		}
+		attr_reader :music_list
 
 		def initialize el
 			@network = Network.new el
-			@music_list
-			@mucis_score
+			@music_list = updateMusicList
+			@music_score = updateMusicScore
+			Groove::IO::write(@music_list,"data/music_list.yml")
+			Groove::IO::write(@music_score,"data/music_score.yml")
 		end
 
 		public
 
-		def updateMusicScore
+		def updateMusicScore(id:@music_list.collect{ |el| el["music_id"] })
 			result = []
-			id.each { |mcid|
-				result << @network.getMucisData(mcid)
-			}
+			id.each { |mcid| result << @network.getMusicData(mcid) }
 			result
 		end
 
@@ -30,15 +25,12 @@ module Groove
 			@network.getMusicList
 		end
 
-		def getMyScore(id:@mucis_list.collect{ |el| el["music_id"] })
+		def getMyScore(id:@music_list.collect{ |el| el["music_id"] })
 			result = []
-			id.each { |mcid|
-				result << @music_score.collect { |el|  }
-			}
+			#id.each { |mcid| result << @music_score.collect { |el| } }
+			id.each { |mcid| result << @network.getMusicData(mcid) }
 			result
 		end
-
-		private
 
 	end
 end

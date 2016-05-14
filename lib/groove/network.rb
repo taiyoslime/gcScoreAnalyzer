@@ -20,7 +20,7 @@ module Groove
 		end
 
 		def getMusicData musicid
-			request(MCDATA + "?music_id=#{musicid}")['music_data']
+			request(MCDATA + "?music_id=#{musicid}")['music_detail']
 		end
 
 		private
