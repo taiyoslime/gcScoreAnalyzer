@@ -2,9 +2,8 @@ require 'net/http'
 require 'openssl'
 
 module Groove
-	module Network
-		module_function
-		def auth_with_post id,passwd
+	class Network
+		def self.auth_with_post id,passwd
   			path = "/sp/login/auth.php"
   			body = "nesicaCardId=#{id}&password=#{passwd}"
   			https = Net::HTTP.new(HOST, 443)
