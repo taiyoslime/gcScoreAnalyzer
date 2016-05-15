@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["taiyoslime"]
   spec.email         = ["contact.taiyoslime@gmail.com"]
 
-  spec.summary       = %q{}
-  spec.description   = %q{}
+  spec.summary       = %q{A score analyzing tool for GROOVE COASTER 3}
+  spec.description   = %q{A score analyzing tool for GROOVE COASTER 3, which is one of the arcade rhythm games in Japan. It is written in Ruby language. }
   spec.homepage      = ""
   spec.license       = "MIT"
 

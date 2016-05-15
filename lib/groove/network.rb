@@ -27,7 +27,7 @@ module Groove
 		def request url
 			result = JSON.load(@agent.get(url).body.force_encoding('utf-8'))
 			pp result
-			return result if result['status'] == 0
+			return result if result['status'].zero?
 			# found that both 0 and 1 are converted to true in ruby, which isn't in C++ lol.
 			# status : 0 => success
 			# status : 1 => error
