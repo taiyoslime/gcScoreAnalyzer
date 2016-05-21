@@ -1,12 +1,14 @@
-## This document is under construction....
-
-
+## このドキュメントは現在制作中です....
 
 
 
 ## Overview
 
-A score analyzing tool for GROOVE COASTER 3™.
+GROOVE COASTER 3™ のスコア収集統計ツール
+
+mypage.groovecoaster.comで表示できる各種スコアデータを手元で一括管理でき、かつその統計情報を提供します。
+
+Rubyのみで書かれています。
 
 ## Installation
 

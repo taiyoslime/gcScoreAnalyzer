@@ -3,22 +3,24 @@ require_relative 'io'
 
 module Groove
 	class App
-		attr_reader :music_list
+		# attr_reader :music_list
 
 		def initialize el
 			@network = Network.new el
 			@music_list = updateMusicList
+			@music_id = @music_list.collect(&:"music_id")
 			@music_score = updateMusicScore
 			Groove::IO::write(@music_list,"data/music_list.yml")
 			Groove::IO::write(@music_score,"data/music_score.yml")
-			@music_id = @music_list.collect{ |e| e["music_id"] }
 		end
 
 		public
 
 		def getSortedScore
-			getMyScore.collect 
+			#block_given? : yield()
+			#getMyScore.collect
 		end
+
 
 		def getMyScore(id:@music_id)
 			result = []

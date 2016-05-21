@@ -8,10 +8,12 @@ module Groove
 		end
 
 		HOST = "https://mypage.groovecoaster.jp"
-		PBROOT = "/sp/json"
+		ROOT = "/sp"
+		PBROOT = ROOT + "/json"
 		MCLIST = HOST + PBROOT + "/music_list.php" # to add query
 		MCDATA = HOST + PBROOT + "/music_detail.php"
 		SCRANK = HOST + PBROOT + "/score_ranking_bymusic_bydifficulty.php"
+
 
 		public
 		def getMusicList
@@ -21,6 +23,10 @@ module Groove
 
 		def getMusicData musicid
 			request(MCDATA + "?music_id=#{musicid}")['music_detail']
+		end
+
+		def getMusicWorldScore musicid,difficulty,page
+			request(SCRANK + "?music_id=#{musicid}&difficulty=#{difficulty}&page=#{page}")['score']
 		end
 
 		private

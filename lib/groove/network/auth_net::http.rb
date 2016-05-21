@@ -9,7 +9,7 @@ module Groove
   			https = Net::HTTP.new(HOST, 443)
 			https.use_ssl = true
 			https.verify_mode = OpenSSL::SSL::VERIFY_NONE
-			response = https.start { |https| https.post(path, body) }
+			response = https.start { |el| el.post(path, body) }
 			return "PHPSESSID=" + response['set-cookie'].split('; ')['PHPSESSID']
 		end
 	end
