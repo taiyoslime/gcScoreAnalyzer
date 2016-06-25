@@ -1,0 +1,7112 @@
+---
+- :music_id: '350'
+  :music_title: BlazeConductor
+  :artist: TatshMusicCircle
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 993339
+    :max_chain: 2314
+    :adlib: 19
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - 
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '89'
+  :music_title: Bad Apple!! feat. nomico
+  :artist: Masayoshi Minoshima
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 991568
+    :max_chain: 810
+    :adlib: 27
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 993833
+    :max_chain: 1262
+    :adlib: 22
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 13
+    :full_chain: 13
+    :perfect: 0
+    :play_count: 15
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992870
+    :max_chain: 1586
+    :adlib: 16
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 982833
+    :max_chain: 2669
+    :adlib: 9
+  :user_rank:
+  - :rank: 1068
+    :difficulty: 0
+  - :rank: 381
+    :difficulty: 1
+  - :rank: 398
+    :difficulty: 2
+  - :rank: 2593
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '455'
+  :music_title: "]-[|/34<#!"
+  :artist: 並木 学
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 969404
+    :max_chain: 1728
+    :adlib: 50
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 974407
+    :max_chain: 2326
+    :adlib: 51
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 17
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 19
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 969722
+    :max_chain: 2979
+    :adlib: 52
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 843058
+    :max_chain: 2630
+    :adlib: 50
+  :user_rank:
+  - :rank: 680
+    :difficulty: 0
+  - :rank: 499
+    :difficulty: 1
+  - :rank: 522
+    :difficulty: 2
+  - :rank: 429
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '357'
+  :music_title: サドマミホリック
+  :artist: ビートまりお
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990249
+    :max_chain: 1503
+    :adlib: 15
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991469
+    :max_chain: 2501
+    :adlib: 19
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991716
+    :max_chain: 2709
+    :adlib: 19
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 31
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 967481
+    :max_chain: 3446
+    :adlib: 18
+  :user_rank:
+  - :rank: 600
+    :difficulty: 0
+  - :rank: 418
+    :difficulty: 1
+  - :rank: 521
+    :difficulty: 2
+  - :rank: 500
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '449'
+  :music_title: ピコラセテ
+  :artist: TORIENA
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992786
+    :max_chain: 2024
+    :adlib: 14
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - 
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '91'
+  :music_title: Colors
+  :artist: REDALiCE feat. Ayumi Nomiya
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 963487
+    :max_chain: 1677
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - 
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '26'
+  :music_title: Shadow
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 6
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 991046
+    :max_chain: 923
+    :adlib: 46
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 14
+    :full_chain: 12
+    :perfect: 0
+    :play_count: 21
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990627
+    :max_chain: 1299
+    :adlib: 20
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 20
+    :full_chain: 15
+    :perfect: 0
+    :play_count: 32
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990544
+    :max_chain: 1475
+    :adlib: 20
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 147
+    :difficulty: 0
+  - :rank: 133
+    :difficulty: 1
+  - :rank: 203
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '368'
+  :music_title: そして誰もいなくなった
+  :artist: コバヤシユウヤ(IOSYS) × あにー(TaNaBaTa)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 997172
+    :max_chain: 1037
+    :adlib: 37
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 996349
+    :max_chain: 1532
+    :adlib: 31
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 9
+    :full_chain: 8
+    :perfect: 0
+    :play_count: 14
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 998162
+    :max_chain: 1856
+    :adlib: 34
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1112
+    :difficulty: 0
+  - :rank: 638
+    :difficulty: 1
+  - :rank: 563
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '299'
+  :music_title: VERTeX
+  :artist: Hiro
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 18
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 949608
+    :max_chain: 2712
+    :adlib: 38
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 484
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '43'
+  :music_title: グルーヴ・リボルバー
+  :artist: 世阿弥
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 956545
+    :max_chain: 1004
+    :adlib: 14
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 956940
+    :max_chain: 1466
+    :adlib: 12
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951196
+    :max_chain: 1842
+    :adlib: 11
+  :extra_result_data:
+    :rating: S
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 910322
+    :max_chain: 1853
+    :adlib: 5
+  :user_rank:
+  - :rank: 1210
+    :difficulty: 0
+  - :rank: 1049
+    :difficulty: 1
+  - :rank: 1202
+    :difficulty: 2
+  - :rank: 1162
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '267'
+  :music_title: CYBER Sparks
+  :artist: TatshMusicCircle
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 965852
+    :max_chain: 3057
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1060
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '273'
+  :music_title: メシアの邂逅
+  :artist: Tatsh
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 943426
+    :max_chain: 2716
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 712
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '298'
+  :music_title: FUJIN Rumble
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 17
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 849984
+    :max_chain: 2948
+    :adlib: 22
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2257
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '49'
+  :music_title: Got a pain cover?
+  :artist: E.G.G.
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 5
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 38
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 953282
+    :max_chain: 3049
+    :adlib: 12
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 552
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '458'
+  :music_title: 飴と鎖
+  :artist: otetsu feat. 巡音ルカ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991599
+    :max_chain: 2221
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 294
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '360'
+  :music_title: 秘密警察
+  :artist: ぶりる feat.  初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 941479
+    :max_chain: 2160
+    :adlib: 29
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 814
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '453'
+  :music_title: SideStrania "BOSS2"
+  :artist: ヨナオケイシ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 964877
+    :max_chain: 2850
+    :adlib: 12
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 419
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '262'
+  :music_title: Faint Love
+  :artist: Silver Forest feat. アキ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990308
+    :max_chain: 1412
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 475
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '311'
+  :music_title: Marry me, Nightmare
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 35
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 932819
+    :max_chain: 2773
+    :adlib: 48
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 638
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '17'
+  :music_title: Space Invaders Infinity Gene Medley
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 881850
+    :max_chain: 1024
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1495
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '428'
+  :music_title: ANTI-HERO
+  :artist: SEKAI NO OWARI
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 4
+    :perfect: 1
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 1000000
+    :max_chain: 1188
+    :adlib: 24
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 4
+    :perfect: 1
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 1000000
+    :max_chain: 1297
+    :adlib: 26
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 32
+    :full_chain: 30
+    :perfect: 0
+    :play_count: 48
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 999383
+    :max_chain: 2413
+    :adlib: 28
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1
+    :difficulty: 0
+  - :rank: 1
+    :difficulty: 1
+  - :rank: 96
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '391'
+  :music_title: SETSUNA
+  :artist: SHIKI feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 994247
+    :max_chain: 1085
+    :adlib: 19
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990769
+    :max_chain: 1654
+    :adlib: 30
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 28
+    :full_chain: 27
+    :perfect: 0
+    :play_count: 46
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 998639
+    :max_chain: 2059
+    :adlib: 34
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 494
+    :difficulty: 0
+  - :rank: 440
+    :difficulty: 1
+  - :rank: 221
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 1
+  :message: 
+- :music_id: '159'
+  :music_title: 東方音銃夢
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995438
+    :max_chain: 1235
+    :adlib: 10
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 996304
+    :max_chain: 1537
+    :adlib: 11
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991958
+    :max_chain: 2057
+    :adlib: 11
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 24
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 983733
+    :max_chain: 2660
+    :adlib: 11
+  :user_rank:
+  - :rank: 384
+    :difficulty: 0
+  - :rank: 297
+    :difficulty: 1
+  - :rank: 370
+    :difficulty: 2
+  - :rank: 388
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '289'
+  :music_title: 弱虫モンブラン
+  :artist: DECO*27
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 1
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 1000000
+    :max_chain: 1053
+    :adlib: 20
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 1
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 1000000
+    :max_chain: 1168
+    :adlib: 20
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 4
+    :perfect: 1
+    :play_count: 11
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 1000000
+    :max_chain: 1394
+    :adlib: 20
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1
+    :difficulty: 0
+  - :rank: 1
+    :difficulty: 1
+  - :rank: 1
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '261'
+  :music_title: ケロ9destiny
+  :artist: Silver Forest feat. めらみぽっぷ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 8
+    :full_chain: 6
+    :perfect: 0
+    :play_count: 14
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 986271
+    :max_chain: 2236
+    :adlib: 45
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 642
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '426'
+  :music_title: W.W.D
+  :artist: でんぱ組.inc
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 975218
+    :max_chain: 1633
+    :adlib: 44
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 978759
+    :max_chain: 2122
+    :adlib: 47
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 970851
+    :max_chain: 2501
+    :adlib: 52
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 958850
+    :max_chain: 3653
+    :adlib: 44
+  :user_rank:
+  - :rank: 926
+    :difficulty: 0
+  - :rank: 712
+    :difficulty: 1
+  - :rank: 934
+    :difficulty: 2
+  - :rank: 412
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '94'
+  :music_title: Sleep
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 942156
+    :max_chain: 993
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 834
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '44'
+  :music_title: Wacky dance ethnic
+  :artist: Sampling Masters MEGA
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 929355
+    :max_chain: 1413
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1532
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '35'
+  :music_title: Shooting Star
+  :artist: Masashi　Hamauzu / Mina
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 963968
+    :max_chain: 1285
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 403
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '281'
+  :music_title: でんでんぱっしょん
+  :artist: でんぱ組.inc
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951163
+    :max_chain: 2153
+    :adlib: 60
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2025
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '388'
+  :music_title: VEGAS
+  :artist: SATO（SANODG & KATO [noisycroak]）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 996138
+    :max_chain: 1077
+    :adlib: 28
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990298
+    :max_chain: 1238
+    :adlib: 36
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 13
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990577
+    :max_chain: 1899
+    :adlib: 37
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 197
+    :difficulty: 0
+  - :rank: 226
+    :difficulty: 1
+  - :rank: 249
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '21'
+  :music_title: Thrash Beat
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 967024
+    :max_chain: 1654
+    :adlib: 86
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 425
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '443'
+  :music_title: 議論 -HEAT UP-　NecroDancer REMIX
+  :artist: 高田雅史
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 1
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 1000000
+    :max_chain: 1220
+    :adlib: 18
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 5
+    :perfect: 1
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 1000000
+    :max_chain: 1670
+    :adlib: 18
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 16
+    :full_chain: 16
+    :perfect: 1
+    :play_count: 25
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 1000000
+    :max_chain: 1932
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1
+    :difficulty: 0
+  - :rank: 1
+    :difficulty: 1
+  - :rank: 1
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '351'
+  :music_title: Halcyon
+  :artist: xi
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 953743
+    :max_chain: 1342
+    :adlib: 12
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 961378
+    :max_chain: 1649
+    :adlib: 16
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955854
+    :max_chain: 2019
+    :adlib: 16
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 835532
+    :max_chain: 750
+    :adlib: 15
+  :user_rank:
+  - :rank: 2579
+    :difficulty: 0
+  - :rank: 2638
+    :difficulty: 1
+  - :rank: 1929
+    :difficulty: 2
+  - :rank: 4927
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '1'
+  :music_title: Play merrily
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 978103
+    :max_chain: 1807
+    :adlib: 74
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 475
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '50'
+  :music_title: Jupiter II Europa
+  :artist: Another Infinity
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990487
+    :max_chain: 856
+    :adlib: 29
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990248
+    :max_chain: 1138
+    :adlib: 22
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990592
+    :max_chain: 1661
+    :adlib: 22
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 953798
+    :max_chain: 2812
+    :adlib: 11
+  :user_rank:
+  - :rank: 448
+    :difficulty: 0
+  - :rank: 318
+    :difficulty: 1
+  - :rank: 275
+    :difficulty: 2
+  - :rank: 1005
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '88'
+  :music_title: マトリョシカ
+  :artist: ハチ
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962431
+    :max_chain: 1882
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 871
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '356'
+  :music_title: 最速最高シャッターガール
+  :artist: ビートまりお
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 978419
+    :max_chain: 1528
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1297
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '404'
+  :music_title: 炉心融解
+  :artist: iroha(sasaki) feat.鏡音リン
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995633
+    :max_chain: 965
+    :adlib: 11
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 994560
+    :max_chain: 1494
+    :adlib: 12
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992345
+    :max_chain: 1668
+    :adlib: 2
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 306
+    :difficulty: 0
+  - :rank: 373
+    :difficulty: 1
+  - :rank: 705
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '99'
+  :music_title: Music Plot Type Three
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 8
+    :full_chain: 7
+    :perfect: 0
+    :play_count: 11
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 988527
+    :max_chain: 459
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 399
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '260'
+  :music_title: 蒼空に舞え、墨染の桜
+  :artist: Silver Forest feat. さゆり
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990402
+    :max_chain: 1482
+    :adlib: 19
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 996630
+    :max_chain: 1614
+    :adlib: 19
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990738
+    :max_chain: 2124
+    :adlib: 9
+  :extra_result_data:
+    :rating: S
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 939148
+    :max_chain: 2198
+    :adlib: 8
+  :user_rank:
+  - :rank: 2139
+    :difficulty: 0
+  - :rank: 809
+    :difficulty: 1
+  - :rank: 1601
+    :difficulty: 2
+  - :rank: 1284
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '233'
+  :music_title: 文学少女インセイン
+  :artist: カラスヤサボウ feat.鏡音リン
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 968234
+    :max_chain: 2274
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 472
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '234'
+  :music_title: エンヴィキャットウォーク
+  :artist: トーマ
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 832275
+    :max_chain: 967
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 5114
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '349'
+  :music_title: ゆけむり魂温泉
+  :artist: 魂音泉
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 986354
+    :max_chain: 1064
+    :adlib: 19
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 986823
+    :max_chain: 1607
+    :adlib: 23
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 13
+    :full_chain: 12
+    :perfect: 0
+    :play_count: 20
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 988236
+    :max_chain: 2332
+    :adlib: 25
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 964527
+    :max_chain: 2585
+    :adlib: 16
+  :user_rank:
+  - :rank: 2558
+    :difficulty: 0
+  - :rank: 969
+    :difficulty: 1
+  - :rank: 746
+    :difficulty: 2
+  - :rank: 1361
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '380'
+  :music_title: tiny tales continue
+  :artist: 黒魔
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995480
+    :max_chain: 1186
+    :adlib: 12
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990153
+    :max_chain: 1565
+    :adlib: 11
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 21
+    :full_chain: 20
+    :perfect: 0
+    :play_count: 33
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990428
+    :max_chain: 2711
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 290
+    :difficulty: 0
+  - :rank: 282
+    :difficulty: 1
+  - :rank: 288
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '431'
+  :music_title: トキノワ
+  :artist: パスピエ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 973415
+    :max_chain: 1331
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 674
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '378'
+  :music_title: orbital
+  :artist: namae.
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951804
+    :max_chain: 1578
+    :adlib: 7
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 402
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '256'
+  :music_title: 待チ人ハ来ズ。
+  :artist: 豚乙女
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 961832
+    :max_chain: 1695
+    :adlib: 14
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2297
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '409'
+  :music_title: 月に叢雲華に風
+  :artist: 幽閉サテライト
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 992059
+    :max_chain: 1094
+    :adlib: 42
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 6
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990834
+    :max_chain: 1384
+    :adlib: 36
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 12
+    :full_chain: 9
+    :perfect: 0
+    :play_count: 17
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 995710
+    :max_chain: 1549
+    :adlib: 31
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 424
+    :difficulty: 0
+  - :rank: 429
+    :difficulty: 1
+  - :rank: 313
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '317'
+  :music_title: 患部で止まってすぐ溶ける　～　狂気の優曇華院
+  :artist: ARM (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 952158
+    :max_chain: 1315
+    :adlib: 20
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 965933
+    :max_chain: 2064
+    :adlib: 15
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 961756
+    :max_chain: 3061
+    :adlib: 17
+  :extra_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 930862
+    :max_chain: 3509
+    :adlib: 24
+  :user_rank:
+  - :rank: 2910
+    :difficulty: 0
+  - :rank: 848
+    :difficulty: 1
+  - :rank: 1162
+    :difficulty: 2
+  - :rank: 1429
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '205'
+  :music_title: only my railgun
+  :artist: ''
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995907
+    :max_chain: 876
+    :adlib: 13
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 995331
+    :max_chain: 1002
+    :adlib: 12
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 19
+    :full_chain: 17
+    :perfect: 0
+    :play_count: 23
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992011
+    :max_chain: 1250
+    :adlib: 12
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 972785
+    :max_chain: 1501
+    :adlib: 12
+  :user_rank:
+  - :rank: 1647
+    :difficulty: 0
+  - :rank: 945
+    :difficulty: 1
+  - :rank: 1666
+    :difficulty: 2
+  - :rank: 1649
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '300'
+  :music_title: Scars of FAUNA
+  :artist: 猫叉Master
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 11
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 924425
+    :max_chain: 2604
+    :adlib: 12
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 990
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '79'
+  :music_title: カノン
+  :artist: FREEDOM
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 994177
+    :max_chain: 852
+    :adlib: 26
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991779
+    :max_chain: 1108
+    :adlib: 20
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990272
+    :max_chain: 1500
+    :adlib: 20
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 278
+    :difficulty: 0
+  - :rank: 413
+    :difficulty: 1
+  - :rank: 396
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '25'
+  :music_title: カンナンシンク
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 996858
+    :max_chain: 689
+    :adlib: 35
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992686
+    :max_chain: 832
+    :adlib: 25
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 11
+    :full_chain: 7
+    :perfect: 0
+    :play_count: 15
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991248
+    :max_chain: 1171
+    :adlib: 22
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 97
+    :difficulty: 0
+  - :rank: 143
+    :difficulty: 1
+  - :rank: 210
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '238'
+  :music_title: パラジクロロベンゼン
+  :artist: オワタP
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995072
+    :max_chain: 1066
+    :adlib: 9
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 994162
+    :max_chain: 1485
+    :adlib: 9
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 6
+    :perfect: 0
+    :play_count: 13
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992375
+    :max_chain: 2523
+    :adlib: 9
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 966112
+    :max_chain: 2924
+    :adlib: 9
+  :user_rank:
+  - :rank: 2281
+    :difficulty: 0
+  - :rank: 946
+    :difficulty: 1
+  - :rank: 613
+    :difficulty: 2
+  - :rank: 782
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '115'
+  :music_title: SKYSCRAPER
+  :artist: Dr. ARM (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 5
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 982911
+    :max_chain: 2024
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 626
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '81'
+  :music_title: SPARKLING FUTURE
+  :artist: MK
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 13
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 33
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 979028
+    :max_chain: 1219
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 189
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '229'
+  :music_title: 女々しくて
+  :artist: ゴールデンボンバー
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 954572
+    :max_chain: 1551
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1211
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '201'
+  :music_title: DX超性能フルメタル少女
+  :artist: IOSYS TRAX (uno with.ちよこ)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955853
+    :max_chain: 2545
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1296
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '392'
+  :music_title: ドクター=ファンクビート
+  :artist: nyanyannya feat. KAITO
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962537
+    :max_chain: 2698
+    :adlib: 43
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 828
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '192'
+  :music_title: OMAKENO Stroke
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 20
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955049
+    :max_chain: 2281
+    :adlib: 41
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1652
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '399'
+  :music_title: ウミユリ海底譚
+  :artist: n-buna feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 1
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 1000000
+    :max_chain: 799
+    :adlib: 7
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 996507
+    :max_chain: 1522
+    :adlib: 5
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 9
+    :full_chain: 9
+    :perfect: 0
+    :play_count: 12
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 998541
+    :max_chain: 2092
+    :adlib: 1
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1
+    :difficulty: 0
+  - :rank: 1304
+    :difficulty: 1
+  - :rank: 785
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '387'
+  :music_title: TAKING OFF
+  :artist: SATO（SANODG & KATO [noisycroak]）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 996739
+    :max_chain: 955
+    :adlib: 15
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 994591
+    :max_chain: 1201
+    :adlib: 14
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 15
+    :full_chain: 13
+    :perfect: 0
+    :play_count: 24
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991516
+    :max_chain: 1445
+    :adlib: 17
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 205
+    :difficulty: 0
+  - :rank: 168
+    :difficulty: 1
+  - :rank: 264
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '313'
+  :music_title: VOLT
+  :artist: aran
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 12
+    :full_chain: 10
+    :perfect: 0
+    :play_count: 24
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 983055
+    :max_chain: 2372
+    :adlib: 33
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 502
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '342'
+  :music_title: ココロ
+  :artist: トラボルタ feat. 鏡音リン
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 991032
+    :max_chain: 1069
+    :adlib: 30
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991308
+    :max_chain: 1294
+    :adlib: 25
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 993400
+    :max_chain: 1522
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 543
+    :difficulty: 0
+  - :rank: 411
+    :difficulty: 1
+  - :rank: 293
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '331'
+  :music_title: プラグアウト
+  :artist: HSP feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 991226
+    :max_chain: 1171
+    :adlib: 30
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992210
+    :max_chain: 1290
+    :adlib: 30
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990917
+    :max_chain: 1839
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 395
+    :difficulty: 0
+  - :rank: 290
+    :difficulty: 1
+  - :rank: 387
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '48'
+  :music_title: Got more raves?
+  :artist: E.G.G.
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 6
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 38
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 960778
+    :max_chain: 2733
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 718
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '33'
+  :music_title: ミュージック・リボルバー
+  :artist: 世阿弥
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 964263
+    :max_chain: 982
+    :adlib: 49
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 963161
+    :max_chain: 1452
+    :adlib: 22
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 957511
+    :max_chain: 1885
+    :adlib: 17
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1195
+    :difficulty: 0
+  - :rank: 1456
+    :difficulty: 1
+  - :rank: 1414
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '414'
+  :music_title: 色は匂へど散りぬるを(Fractal 1.5ver.)
+  :artist: 少女フラクタル(天宮みや、柚木梨沙)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 992416
+    :max_chain: 864
+    :adlib: 24
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 993921
+    :max_chain: 1031
+    :adlib: 12
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 5
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 995240
+    :max_chain: 1140
+    :adlib: 29
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1056
+    :difficulty: 0
+  - :rank: 713
+    :difficulty: 1
+  - :rank: 1152
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '189'
+  :music_title: 魔理沙は大変なものを盗んでいきました
+  :artist: ARM (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995164
+    :max_chain: 1485
+    :adlib: 58
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 5
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992218
+    :max_chain: 1882
+    :adlib: 58
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 13
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991857
+    :max_chain: 2702
+    :adlib: 28
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 270
+    :difficulty: 0
+  - :rank: 302
+    :difficulty: 1
+  - :rank: 403
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '423'
+  :music_title: Satisfiction (Massive New Krew Remix)
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 973941
+    :max_chain: 2742
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 756
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '379'
+  :music_title: Black MInD
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 17
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 966047
+    :max_chain: 3776
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 665
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '310'
+  :music_title: 零式<Type-ZERO>
+  :artist: 世阿弥
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 844921
+    :max_chain: 1359
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2182
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '312'
+  :music_title: VELVET
+  :artist: Massive New Krew
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 7
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 19
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 973942
+    :max_chain: 2073
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 713
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '320'
+  :music_title: Got noir forever.
+  :artist: E.G.G.
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 38
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 950775
+    :max_chain: 3424
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 306
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '22'
+  :music_title: Fess up!
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 978745
+    :max_chain: 1180
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1002
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '137'
+  :music_title: 魔法少女幸福論
+  :artist: トーマ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 933830
+    :max_chain: 2079
+    :adlib: 17
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1709
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '24'
+  :music_title: Jingle Bells -Trance Mix-
+  :artist: Remix by COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962250
+    :max_chain: 1351
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 915
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '296'
+  :music_title: Garakuta Doll Play
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 5
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 19
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 950290
+    :max_chain: 2830
+    :adlib: 28
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 966
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '264'
+  :music_title: Crime Wave
+  :artist: ALiCE'S EMOTiON
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990951
+    :max_chain: 1059
+    :adlib: 10
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992567
+    :max_chain: 1685
+    :adlib: 10
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 14
+    :full_chain: 11
+    :perfect: 0
+    :play_count: 26
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990301
+    :max_chain: 2342
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1048
+    :difficulty: 0
+  - :rank: 553
+    :difficulty: 1
+  - :rank: 571
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '366'
+  :music_title: カリソメ
+  :artist: コンプ(豚乙女) × ichigo(岸田教団&THE明星ロケッツ)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 974457
+    :max_chain: 2219
+    :adlib: 46
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1835
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '437'
+  :music_title: conflict
+  :artist: siromaru + cranky
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990852
+    :max_chain: 1374
+    :adlib: 18
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 994492
+    :max_chain: 1737
+    :adlib: 12
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991708
+    :max_chain: 2577
+    :adlib: 12
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 962447
+    :max_chain: 3078
+    :adlib: 11
+  :user_rank:
+  - :rank: 769
+    :difficulty: 0
+  - :rank: 268
+    :difficulty: 1
+  - :rank: 552
+    :difficulty: 2
+  - :rank: 678
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '382'
+  :music_title: Shiva
+  :artist: Massive New Krew
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 971228
+    :max_chain: 2730
+    :adlib: 36
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 965
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '228'
+  :music_title: 夏祭り
+  :artist: ''
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 985384
+    :max_chain: 1784
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 704
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '370'
+  :music_title: 未確認幻想コースター
+  :artist: t+pazolite(C.H.S/ALiCE'S EMOTiON) × ビートまりお(COOL&CREATE)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 963539
+    :max_chain: 1993
+    :adlib: 35
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1633
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '291'
+  :music_title: D+D→T+p
+  :artist: Minstrel feat. LIQU@。
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 899685
+    :max_chain: 1963
+    :adlib: 8
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1873
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '53'
+  :music_title: COZMIC OPERATION
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995623
+    :max_chain: 1117
+    :adlib: 25
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 996941
+    :max_chain: 1363
+    :adlib: 25
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 7
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 993300
+    :max_chain: 2326
+    :adlib: 25
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 205
+    :difficulty: 0
+  - :rank: 81
+    :difficulty: 1
+  - :rank: 221
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '122'
+  :music_title: Period of Revolution
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 940986
+    :max_chain: 1490
+    :adlib: 20
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1288
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '51'
+  :music_title: Lost Colors
+  :artist: コバヤシユウヤ feat. 黒田椋子 (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 968485
+    :max_chain: 1397
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1479
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '430'
+  :music_title: STAKEHOLDER
+  :artist: tofubeats
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 965904
+    :max_chain: 1462
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 587
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '440'
+  :music_title: Disco Descent/Mausoleum Mash
+  :artist: Danny Baranowsky
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 993214
+    :max_chain: 990
+    :adlib: 16
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 993493
+    :max_chain: 1268
+    :adlib: 15
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990987
+    :max_chain: 1701
+    :adlib: 16
+  :extra_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 992342
+    :max_chain: 904
+    :adlib: 62
+  :user_rank:
+  - :rank: 1354
+    :difficulty: 0
+  - :rank: 860
+    :difficulty: 1
+  - :rank: 699
+    :difficulty: 2
+  - :rank: 1187
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '318'
+  :music_title: でんぱーりーナイト
+  :artist: でんぱ組.inc
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data: 
+  :extra_result_data:
+    :rating: B
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 776679
+    :max_chain: 193
+    :adlib: 17
+  :user_rank:
+  - 
+  - 
+  - 
+  - :rank: 2911
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '10'
+  :music_title: I CANNOT APE
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 993137
+    :max_chain: 916
+    :adlib: 20
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 994272
+    :max_chain: 1117
+    :adlib: 34
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 4
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990453
+    :max_chain: 1402
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 901
+    :difficulty: 0
+  - :rank: 408
+    :difficulty: 1
+  - :rank: 407
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '183'
+  :music_title: Help me, ERINNNNNN!!
+  :artist: ビートまりお
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 974274
+    :max_chain: 2027
+    :adlib: 45
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1842
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '58'
+  :music_title: ポリリズム
+  :artist: ''
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 891754
+    :max_chain: 718
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 3486
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '7'
+  :music_title: Invade You
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 973560
+    :max_chain: 1391
+    :adlib: 77
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 477
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '385'
+  :music_title: Negative Return
+  :artist: 小倉久佳音画制作所
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 971911
+    :max_chain: 1739
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 337
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '14'
+  :music_title: Spring to mind
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 5
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 945993
+    :max_chain: 1215
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 476
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '185'
+  :music_title: ウサテイ2013
+  :artist: あまね＋ビートまりお
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955837
+    :max_chain: 2344
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2142
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '432'
+  :music_title: ちょちょちょ！ゆるゆり☆かぷりっちょ！！！
+  :artist: 七森中☆ごらく部
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 991893
+    :max_chain: 934
+    :adlib: 45
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992412
+    :max_chain: 1413
+    :adlib: 54
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 16
+    :full_chain: 11
+    :perfect: 0
+    :play_count: 25
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991528
+    :max_chain: 1625
+    :adlib: 55
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 368
+    :difficulty: 0
+  - :rank: 278
+    :difficulty: 1
+  - :rank: 442
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '272'
+  :music_title: 聖者の息吹
+  :artist: 世阿弥 vs Tatsh
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951930
+    :max_chain: 2827
+    :adlib: 12
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 977
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '119'
+  :music_title: Satisfiction
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 960460
+    :max_chain: 1897
+    :adlib: 14
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2768
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '294'
+  :music_title: FLOWER
+  :artist: DJ YOSHITAKA
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 18
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 945035
+    :max_chain: 3030
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 738
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '37'
+  :music_title: Extreme MGG★★★
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 950350
+    :max_chain: 1898
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 803
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '265'
+  :music_title: FOUR SEASONS OF LONELINESS verβ feat.サリヤ人
+  :artist: TatshMusicCircle
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 962475
+    :max_chain: 1328
+    :adlib: 8
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 965055
+    :max_chain: 1765
+    :adlib: 9
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 979770
+    :max_chain: 2357
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 2632
+    :difficulty: 0
+  - :rank: 1488
+    :difficulty: 1
+  - :rank: 684
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '359'
+  :music_title: morning haze
+  :artist: keeno feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 999365
+    :max_chain: 882
+    :adlib: 6
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991620
+    :max_chain: 989
+    :adlib: 14
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992825
+    :max_chain: 1180
+    :adlib: 6
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 643
+    :difficulty: 0
+  - :rank: 1031
+    :difficulty: 1
+  - :rank: 1049
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '280'
+  :music_title: ちゅるりちゅるりら
+  :artist: でんぱ組.inc
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 956989
+    :max_chain: 2562
+    :adlib: 51
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 821734
+    :max_chain: 609
+    :adlib: 45
+  :user_rank:
+  - 
+  - 
+  - :rank: 1518
+    :difficulty: 2
+  - :rank: 3925
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '390'
+  :music_title: TRIPLE3T
+  :artist: SATO（SANODG & KATO [noisycroak]）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 992625
+    :max_chain: 988
+    :adlib: 19
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 992308
+    :max_chain: 2042
+    :adlib: 22
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 993580
+    :max_chain: 2334
+    :adlib: 23
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 279
+    :difficulty: 0
+  - :rank: 272
+    :difficulty: 1
+  - :rank: 281
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 1
+  :message: 
+- :music_id: '348'
+  :music_title: Spider's Blood
+  :artist: A-One
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 960299
+    :max_chain: 2385
+    :adlib: 32
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1782
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '353'
+  :music_title: Solar Storm
+  :artist: xi
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 909984
+    :max_chain: 2670
+    :adlib: 27
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1549
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '266'
+  :music_title: Cruel Moon NuMIX
+  :artist: TatshMusicCircle
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 16
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 952588
+    :max_chain: 2782
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 806
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '999'
+  :music_title: The Beginning
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 965272
+    :max_chain: 1116
+    :adlib: 49
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 307
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '179'
+  :music_title: Phone Dead Room
+  :artist: Sampling Masters AYA
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951716
+    :max_chain: 2127
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 407
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '92'
+  :music_title: Stardust Vox
+  :artist: DJ Laugh a.k.a. uno (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 932324
+    :max_chain: 1650
+    :adlib: 20
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1020
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '184'
+  :music_title: ナイト・オブ・ナイツ
+  :artist: ビートまりお
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 947143
+    :max_chain: 1267
+    :adlib: 33
+  :normal_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 917383
+    :max_chain: 1902
+    :adlib: 33
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 958030
+    :max_chain: 2577
+    :adlib: 33
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 858954
+    :max_chain: 1273
+    :adlib: 33
+  :user_rank:
+  - :rank: 8336
+    :difficulty: 0
+  - :rank: 10160
+    :difficulty: 1
+  - :rank: 3322
+    :difficulty: 2
+  - :rank: 4666
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '427'
+  :music_title: おつかれサマー！
+  :artist: でんぱ組.inc
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 972975
+    :max_chain: 2250
+    :adlib: 73
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 893
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '364'
+  :music_title: My Voice is Dead.
+  :artist: t+pazolite (C.H.S / ALiCE'S EMOTiON)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955383
+    :max_chain: 2671
+    :adlib: 3
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1070
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '20'
+  :music_title: Just no friend
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 937742
+    :max_chain: 1229
+    :adlib: 24
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1176
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '425'
+  :music_title: アルカノイドvsインベーダー
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 11
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 976857
+    :max_chain: 2465
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 596
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '441'
+  :music_title: だんがんろんぱ!　NecroDancer REMIX
+  :artist: 高田雅史
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 5
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 979070
+    :max_chain: 1916
+    :adlib: 30
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 510
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '160'
+  :music_title: 東方散楽祭
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 934423
+    :max_chain: 1777
+    :adlib: 17
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1499
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '71'
+  :music_title: 裏表ラバーズ
+  :artist: wowaka
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 947537
+    :max_chain: 1710
+    :adlib: 5
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1567
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '319'
+  :music_title: RETROID
+  :artist: M.S.S Project
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 957410
+    :max_chain: 2008
+    :adlib: 21
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 726
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '442'
+  :music_title: Fungal Funk/Portabellohead
+  :artist: Danny Baranowsky
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 975001
+    :max_chain: 2006
+    :adlib: 30
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 823
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '52'
+  :music_title: Five to Seven
+  :artist: Sampling Masters AYA
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 892258
+    :max_chain: 1843
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1091
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '109'
+  :music_title: ブリキノダンス
+  :artist: 日向電工
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 953371
+    :max_chain: 2336
+    :adlib: 7
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2782
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '340'
+  :music_title: Packaged
+  :artist: livetune feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 995561
+    :max_chain: 933
+    :adlib: 9
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991210
+    :max_chain: 1141
+    :adlib: 10
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991253
+    :max_chain: 1236
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 731
+    :difficulty: 0
+  - :rank: 859
+    :difficulty: 1
+  - :rank: 781
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '372'
+  :music_title: 座和々
+  :artist: MASAKI (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962205
+    :max_chain: 2152
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 971
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '374'
+  :music_title: QLWA
+  :artist: t+pazolite
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 953688
+    :max_chain: 1116
+    :adlib: 43
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 954265
+    :max_chain: 1639
+    :adlib: 64
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 969725
+    :max_chain: 2051
+    :adlib: 77
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 853912
+    :max_chain: 1403
+    :adlib: 57
+  :user_rank:
+  - :rank: 2731
+    :difficulty: 0
+  - :rank: 2140
+    :difficulty: 1
+  - :rank: 2070
+    :difficulty: 2
+  - :rank: 1975
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '148'
+  :music_title: It's a pit world
+  :artist: Shohei Tsuchiya （ZUNTATA） feat. SATOMI
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 946375
+    :max_chain: 1662
+    :adlib: 46
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1702
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '77'
+  :music_title: 千本桜
+  :artist: 黒うさＰ(WhiteFlame) feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 989660
+    :max_chain: 834
+    :adlib: 13
+  :normal_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 984391
+    :max_chain: 1089
+    :adlib: 8
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962541
+    :max_chain: 1504
+    :adlib: 8
+  :extra_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 963174
+    :max_chain: 1996
+    :adlib: 8
+  :user_rank:
+  - :rank: 3773
+    :difficulty: 0
+  - :rank: 1869
+    :difficulty: 1
+  - :rank: 3499
+    :difficulty: 2
+  - :rank: 962
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '161'
+  :music_title: 東方不死鳥
+  :artist: COSIO (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 3
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 6
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 963051
+    :max_chain: 2104
+    :adlib: 26
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2309
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '389'
+  :music_title: DOTTED 8TH
+  :artist: SATO（SANODG & KATO [noisycroak]）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 992926
+    :max_chain: 972
+    :adlib: 18
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 991287
+    :max_chain: 1395
+    :adlib: 31
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 5
+    :perfect: 0
+    :play_count: 13
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 992863
+    :max_chain: 1601
+    :adlib: 31
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 467
+    :difficulty: 0
+  - :rank: 539
+    :difficulty: 1
+  - :rank: 349
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 1
+  :message: 
+- :music_id: '203'
+  :music_title: コネクト -TV MIX-
+  :artist: ClariS
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 951246
+    :max_chain: 983
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1720
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '338'
+  :music_title: Tell Your World
+  :artist: livetune feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955168
+    :max_chain: 1601
+    :adlib: 12
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 3694
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '80'
+  :music_title: STORY
+  :artist: DJ YOSHINORI
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962717
+    :max_chain: 2198
+    :adlib: 4
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 568
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '190'
+  :music_title: チルノのパーフェクトさんすう教室
+  :artist: ARM (IOSYS)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 964399
+    :max_chain: 2293
+    :adlib: 34
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1708
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '85'
+  :music_title: ワールズエンド・ダンスホール
+  :artist: wowaka
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 954232
+    :max_chain: 1543
+    :adlib: 18
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2937
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '98'
+  :music_title: Sakura Remix
+  :artist: Shohei Tsuchiya （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 956718
+    :max_chain: 912
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 881
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '282'
+  :music_title: 行くぜっ！怪盗少女 -Z ver.-
+  :artist: ももいろクローバーZ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 978581
+    :max_chain: 2157
+    :adlib: 37
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1176
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '202'
+  :music_title: 天体観測
+  :artist: ''
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 968164
+    :max_chain: 1249
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 975
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '66'
+  :music_title: つけまつける
+  :artist: ''
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 981587
+    :max_chain: 956
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 603
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '421'
+  :music_title: Under The Moon
+  :artist: void (Mournfinale)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 5
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 978553
+    :max_chain: 2352
+    :adlib: 24
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 721
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '393'
+  :music_title: StargazeR
+  :artist: 骨盤P feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 7
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 965190
+    :max_chain: 1760
+    :adlib: 28
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 693
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '295'
+  :music_title: きたさいたま2000
+  :artist: LindaAI-CUE(BNGI)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 818246
+    :max_chain: 969
+    :adlib: 43
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1685
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '222'
+  :music_title: オパ! オパ! RACER -GMT mashup-
+  :artist: mashup by COSIO(ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 887672
+    :max_chain: 1571
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1076
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '474'
+  :music_title: LINK LINK FEVER!!!
+  :artist: 'リンカ (CV: 豊田萌絵)'
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 964054
+    :max_chain: 1780
+    :adlib: 37
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1328
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '268'
+  :music_title: FullMoon
+  :artist: TatshMusicCircle
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 996742
+    :max_chain: 1017
+    :adlib: 17
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990619
+    :max_chain: 1598
+    :adlib: 17
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 12
+    :full_chain: 12
+    :perfect: 0
+    :play_count: 25
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991296
+    :max_chain: 2173
+    :adlib: 17
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 1328
+    :difficulty: 0
+  - :rank: 1107
+    :difficulty: 1
+  - :rank: 731
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '269'
+  :music_title: Weave Detonator
+  :artist: Sampling Masters MEGA & Tatsh
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 838186
+    :max_chain: 508
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1962
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '321'
+  :music_title: '2112410403927243233368'
+  :artist: '253215'
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 857366
+    :max_chain: 1861
+    :adlib: 43
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2673
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '286'
+  :music_title: The Party Has Just Begun
+  :artist: LastSecond
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955629
+    :max_chain: 1472
+    :adlib: 7
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 792
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '330'
+  :music_title: Heavenly Particle
+  :artist: M.S.S Project
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 2
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955229
+    :max_chain: 2338
+    :adlib: 19
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 752
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '110'
+  :music_title: アンダワ -GC remix-
+  :artist: 日向電工
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 927513
+    :max_chain: 1884
+    :adlib: 8
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1414
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '401'
+  :music_title: だんだん早くなる
+  :artist: 40mP feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 3
+    :full_chain: 3
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 992856
+    :max_chain: 1234
+    :adlib: 3
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 990385
+    :max_chain: 1507
+    :adlib: 3
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 5
+    :full_chain: 5
+    :perfect: 0
+    :play_count: 8
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 990396
+    :max_chain: 2034
+    :adlib: 6
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 911
+    :difficulty: 0
+  - :rank: 1004
+    :difficulty: 1
+  - :rank: 1153
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '337'
+  :music_title: Redial
+  :artist: livetune feat. 初音ミク
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 990188
+    :max_chain: 992
+    :adlib: 13
+  :normal_result_data:
+    :rating: S++
+    :no_miss: 2
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: NORMAL
+    :score: 993906
+    :max_chain: 1355
+    :adlib: 16
+  :hard_result_data:
+    :rating: S++
+    :no_miss: 6
+    :full_chain: 4
+    :perfect: 0
+    :play_count: 9
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 991543
+    :max_chain: 1678
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 350
+    :difficulty: 0
+  - :rank: 212
+    :difficulty: 1
+  - :rank: 317
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '415'
+  :music_title: 明星ロケット
+  :artist: 岸田教団&THE明星ロケッツ
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 968286
+    :max_chain: 1680
+    :adlib: 31
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 890
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '326'
+  :music_title: Gluttony Fang
+  :artist: Daisuke Ishiwatari(ARC SYSTEM WORKS)
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data: 
+  :extra_result_data:
+    :rating: B
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: true
+    :music_level: EXTRA
+    :score: 700792
+    :max_chain: 283
+    :adlib: 9
+  :user_rank:
+  - 
+  - 
+  - 
+  - :rank: 2359
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '429'
+  :music_title: ズッ友
+  :artist: 神聖かまってちゃん
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data:
+    :rating: S+
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: SIMPLE
+    :score: 963287
+    :max_chain: 877
+    :adlib: 10
+  :normal_result_data: 
+  :hard_result_data: 
+  :extra_result_data: 
+  :user_rank:
+  - :rank: 889
+    :difficulty: 0
+  - 
+  - 
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '141'
+  :music_title: ヘッドフォンアクター
+  :artist: じん
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 844720
+    :max_chain: 583
+    :adlib: 14
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 6462
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '274'
+  :music_title: 平成快晴どってんしゃん
+  :artist: 豚乙女
+  :skin_name: DEFAULT
+  :ex_flag: 1
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 936073
+    :max_chain: 2007
+    :adlib: 21
+  :extra_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: EXTRA
+    :score: 806663
+    :max_chain: 431
+    :adlib: 20
+  :user_rank:
+  - 
+  - 
+  - :rank: 2107
+    :difficulty: 2
+  - :rank: 2860
+    :difficulty: 3
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  - :music_difficulty: 3
+  :fav_flg: 0
+  :message: 
+- :music_id: '241'
+  :music_title: Walking Through The Towers
+  :artist: Kenji Ito
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 958659
+    :max_chain: 1796
+    :adlib: 10
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 645
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '292'
+  :music_title: Foughten Field
+  :artist: ALiCE'S EMOTiON
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 866436
+    :max_chain: 877
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 3149
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '121'
+  :music_title: CERAMIC HEART (ALR REWIND REMIX)
+  :artist: Masayoshi Minoshima feat. anporin
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 934723
+    :max_chain: 1201
+    :adlib: 11
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1459
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '174'
+  :music_title: Sakura Mankai
+  :artist: HIROTO
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 2
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 963789
+    :max_chain: 1699
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1526
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '97'
+  :music_title: Punk Silent Night
+  :artist: Shohei Tsuchiya (ZUNTATA)
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 925210
+    :max_chain: 1264
+    :adlib: 29
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 848
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '386'
+  :music_title: SiLent ErRors -Un-True-
+  :artist: 小倉久佳音画制作所
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 955117
+    :max_chain: 2229
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 717
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '309'
+  :music_title: STARLIGHT TWILIGHT -GC edit-
+  :artist: Tatsh feat. 彩音
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 1
+    :perfect: 0
+    :play_count: 5
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 959188
+    :max_chain: 3194
+    :adlib: 8
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1436
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '145'
+  :music_title: アウターサイエンス
+  :artist: じん
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 3
+    :is_clear_mark: false
+    :is_failed_mark: true
+    :music_level: HARD
+    :score: 828219
+    :max_chain: 2351
+    :adlib: 39
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 9630
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '117'
+  :music_title: 聖者の鼓動
+  :artist: 世阿弥
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 4
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 10
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 954015
+    :max_chain: 2440
+    :adlib: 25
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 3047
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '107'
+  :music_title: ハッピーシンセサイザ
+  :artist: EasyPop feat. 巡音ルカ&GUMI
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 962032
+    :max_chain: 1847
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2500
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '78'
+  :music_title: ピアノ・ソナタ「月光」第三楽章
+  :artist: ICON
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 914920
+    :max_chain: 1986
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1229
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '253'
+  :music_title: ってゐ！ ～えいえんてゐver.～
+  :artist: 石鹸屋
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 830095
+    :max_chain: 848
+    :adlib: 15
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 8409
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '308'
+  :music_title: Black Moon Sympathy
+  :artist: TeddyLoid
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 946622
+    :max_chain: 1649
+    :adlib: 13
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 1105
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '82'
+  :music_title: カゲロウデイズ
+  :artist: じん
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 816099
+    :max_chain: 482
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 13603
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '199'
+  :music_title: comet
+  :artist: Aikapin
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: A
+    :no_miss: 0
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 1
+    :is_clear_mark: true
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 804404
+    :max_chain: 637
+    :adlib: 4
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2624
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '19'
+  :music_title: Protocol Signal Generation
+  :artist: COSIO （ZUNTATA）
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 2
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 953450
+    :max_chain: 1397
+    :adlib: 16
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 827
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 
+- :music_id: '287'
+  :music_title: モザイクロール
+  :artist: DECO*27
+  :skin_name: DEFAULT
+  :ex_flag: 0
+  :simple_result_data: 
+  :normal_result_data: 
+  :hard_result_data:
+    :rating: S+
+    :no_miss: 1
+    :full_chain: 0
+    :perfect: 0
+    :play_count: 4
+    :is_clear_mark: false
+    :is_failed_mark: false
+    :music_level: HARD
+    :score: 957257
+    :max_chain: 1982
+    :adlib: 9
+  :extra_result_data: 
+  :user_rank:
+  - 
+  - 
+  - :rank: 2188
+    :difficulty: 2
+  - 
+  :difficulty:
+  - :music_difficulty: 0
+  - :music_difficulty: 1
+  - :music_difficulty: 2
+  :fav_flg: 0
+  :message: 

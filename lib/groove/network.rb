@@ -14,26 +14,25 @@ module Groove
 		MCDATA = HOST + PBROOT + "/music_detail.php"
 		SCRANK = HOST + PBROOT + "/score_ranking_bymusic_bydifficulty.php"
 
-
 		public
 		def getMusicList
-			request(MCLIST)['music_list']
+			request(MCLIST)[:music_list]
 			# to exclude status code
 		end
 
 		def getMusicData musicid
-			request(MCDATA + "?music_id=#{musicid}")['music_detail']
+			request(MCDATA + "?music_id=#{musicid}")[:music_detail]
 		end
 
 		def getMusicWorldScore musicid,difficulty,page
-			request(SCRANK + "?music_id=#{musicid}&difficulty=#{difficulty}&page=#{page}")['score']
+			request(SCRANK + "?music_id=#{musicid}&difficulty=#{difficulty}&page=#{page}")[:score]
 		end
 
 		private
 		def request url
-			result = JSON.load(@agent.get(url).body.force_encoding('utf-8'))
+			result = JSON.parse(@agent.get(url).body.force_encoding('utf-8'), symbolize_names:true)
 			pp result
-			return result if result['status'].zero?
+			return result if result[:status].zero?
 			# found that both 0 and 1 are converted to true in ruby, which isn't in C++ lol.
 			# status : 0 => success
 			# status : 1 => error
