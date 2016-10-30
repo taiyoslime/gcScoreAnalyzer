@@ -131,7 +131,6 @@ module Groove
   		# 	:message => [unknown]
   		# 	}
  
-				    :adlib=>12},
 		def getMusicDetail id
 			id.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid) ; result }
 		end
