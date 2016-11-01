@@ -50,7 +50,7 @@ module Groove
 		def request url
 			puts "[GET] #{url}"
 			result = JSON.parse(@agent.get(url).body.force_encoding('utf-8'), symbolize_names:true)
-			raise "Request \"GET : #{url} \"is not valid." unless result[:status].zero?
+			raise "Request \"[GET] : #{url} \"is not valid." unless result[:status].zero?
 			result
 
 			# found that both 0 and 1 are converted to true in ruby, which isn't in C++ lol.

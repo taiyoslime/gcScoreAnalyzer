@@ -7,9 +7,9 @@ module Groove
 
 		def initialize agent
 			@network = Network.new agent
-
 			@music_list = @network.getMusicList
 			# @music_id = @music_list.collect{ |e| e[:music_id] }
+			puts "Initialization success."
 		end
 
 		public
@@ -130,7 +130,7 @@ module Groove
   		# 	:fav_flg => [Fixnum],
   		# 	:message => [unknown]
   		# 	}
- 
+
 		def getMusicDetail id
 			id.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid) ; result }
 		end
@@ -154,12 +154,3 @@ module Groove
 
 	end
 end
-
-
-=begin
-欲しい機能
-musiclistを返す
-
-
-
-=end
