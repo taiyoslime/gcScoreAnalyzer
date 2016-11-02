@@ -1,9 +1,5 @@
 ## This document is under construction....
 
-
-
-
-
 ## Overview
 
 A score analyzing tool for GROOVE COASTER 3™.
@@ -23,16 +19,39 @@ Or install it yourself as:
 
     $ gem install groove
 
-### note
+If you fail to install with `nokogiri module`, try executing below:
 
-	TODO:to fail instaring nokogiri module
 ```
 	$ bundle config build.nokogiri --use-system-libraries
 ```
 
 ## Usage
 
-TODO: Write usage instructions
+## Initialization
+
+```ruby
+necica_id = XXXXXXXXXXXX
+pasword = XXXXXXXXXX
+
+# Initialize
+groove = Groove::init necica_id,password
+```
+
+## #getMusiclist -> [Array]
+
+```ruby
+p groove.getMusiclist
+
+# => [{
+# 	:music_id=>999,
+# 	:music_title=>"The Beginning",
+# 	:play_count=>23,
+# 	:last_play_time=>"2016-11-02 19:30:37"},
+# 	.....
+```
+## #getFriendList -> [Array]
+
+
 
 
 ## Development
