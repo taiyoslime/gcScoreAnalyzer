@@ -149,7 +149,7 @@ module Groove
 		end
 
 		def getFriendScore friend_id,music_id
-			@network.getFriendScore
+			@network.getFriendScore friend_id,music_id
 		end
 
 	end
