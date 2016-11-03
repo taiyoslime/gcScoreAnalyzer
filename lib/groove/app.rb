@@ -1,6 +1,7 @@
 require_relative 'network'
 require_relative 'io'
 
+
 module Groove
 	class App
 		attr_reader :music_list
