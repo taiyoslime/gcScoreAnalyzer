@@ -26,7 +26,7 @@ $ bundle config build.nokogiri --use-system-libraries
 
 ## Usage
 
-### Initialization
+## Initialization
 
 ```ruby
 necica_id = XXXXXXXXXXXX
@@ -35,6 +35,8 @@ pasword = XXXXXXXXXX
 # 初期化
 groove = Groove::init necica_id,password
 ```
+
+## Methods
 
 ### #getMusiclist -> [Array]
 
@@ -48,8 +50,45 @@ p groove.getMusiclist
 # 	:last_play_time=>"2016-11-02 19:30:37"},
 # 	.....
 ```
+
+### #getScoreDetail (music_id) -> [Array]
+
+- (PARAM) music_id : [Array]
+
 ### #getFriendList -> [Array]
 
+### #getFriendMusicList (friend_id) -> [Array]
+
+- (PARAM) friend_id : [Array]
+
+### #getFriendScoreDetail (music_id,difficulty) -> [Array]
+
+- (PARAM) music_id : [Array]
+- (PARAM) difficulty : [Array]
+
+### #getWorldRankData (music_id,difficulty,page)
+
+- (PARAM) music_id : [Array]
+- (PARAM) difficulty : [Array]
+- (PARAM) page : [Array]
+
+### Groove::IO.read (path) -> [Object]
+
+- (PARAM) path : [String]
+
+### Groove::IO.write (path,content)
+
+- (PARAM) path : [String]
+- (PARAM) content : [Object]
+
+## Constants
+
+### Groove::SIMPLE
+### Groove::NORMAL
+### Groove::HARD
+### Groove::EXTRA
+### Groove::DIFFCULT_ALL
+### Groove::VERSION
 
 ## Contributing
 
