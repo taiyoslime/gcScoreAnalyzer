@@ -132,8 +132,8 @@ module Groove
   		# 	:message => [unknown]
   		# 	}
 
-		def getMusicDetail id
-			id.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid) ; result }
+		def getScoreDetail music_id
+			music_id.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid) ; result }
 		end
 
 		def getWorldRankData id,diff,num
@@ -149,7 +149,7 @@ module Groove
 			@network.getFriendMusicList friend_id
 		end
 
-		def getFriendScore friend_id,music_id
+		def getFriendScoreDetail friend_id,music_id
 			@network.getFriendScore friend_id,music_id
 		end
 
