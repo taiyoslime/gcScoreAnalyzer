@@ -1,6 +1,5 @@
 ## このドキュメントは現在制作中です....
-
-
+[English is here](README-en.md)
 
 ## Overview
 
@@ -71,6 +70,8 @@ p groove.getMusiclist
 - (PARAM) music_id : [Array]
 - (PARAM) difficulty : [Array]
 - (PARAM) page : [Array]
+
+### Groove::init
 
 ### Groove::IO.read (path) -> [Object]
 
