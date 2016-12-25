@@ -35,7 +35,7 @@ module Groove
 		#
 		# {
 		# 	:card_id => [String],
-		# 	:name => [Fixnum],
+		# 	:name => [String],
 		# 	:total_score => [String],
 		# 	:title => [String]
 		# }
