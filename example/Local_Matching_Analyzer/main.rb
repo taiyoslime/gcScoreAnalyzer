@@ -24,9 +24,9 @@ my_music_detail = groove.getMusicList.reduce([]){|res,e|
 
 result = my_music_detail.reduce([]){|res,e|
     Groove::RESULT[Groove::HARD,Groove::EXTRA].each{|diff|
-        my_score = e[0][diff][:score] ||  0
+        my_score = e[0][diff][:score] || 0
         friend_score = friend_music_detail.find{|el| el[:music_id] == e[0][:music_id]}[diff][:score] || 0
-        if my_score != 0 and friend_score != 0
+        unless my_score == 0 and friend_music_detail == 0
             res << {
                 music_title: e[0][:music_title],
                 difficulty: diff.to_s.sub(/_result_data/,"").upcase,

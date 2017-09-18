@@ -3,18 +3,18 @@
 
 ## Overview
 
-GROOVE COASTER 3™ のスコアサーバー(https://mypage.groovecoaster.jp)データー収集統計ツール
-
-Rubyのみで書かれています。
+GROOVE COASTER 3EX™ のスコアサーバー(https://mypage.groovecoaster.jp) データー収集統計ツール
 
 ## Installation
 
 ```
-$ gem install groove
+$ gem specific_install https://github.com/taiyoslime/gcScoreAnalyzer
 ```
 
-`bundle`等使う場合は適当にやってください
-
+若しくは以下をGemfileに追記し`bundle`してください :
+```
+gem 'twitter_mechanize', github: "taiyoslime/gcScoreAnalyzer"
+```
 
 もし`nokogiri`関係のエラーで落ちた場合は
 ```
@@ -28,6 +28,8 @@ $ bundle config build.nokogiri --use-system-libraries
 ## Initialization
 
 ```ruby
+require "groove"
+
 necica_id = XXXXXXXXXXXX
 pasword = XXXXXXXXXX
 
@@ -81,15 +83,6 @@ p groove.getMusiclist
 
 - (PARAM) path : [String]
 - (PARAM) content : [Object]
-
-## Constants
-
-### Groove::SIMPLE
-### Groove::NORMAL
-### Groove::HARD
-### Groove::EXTRA
-### Groove::DIFFCULT_ALL
-### Groove::VERSION
 
 ## Contributing
 
