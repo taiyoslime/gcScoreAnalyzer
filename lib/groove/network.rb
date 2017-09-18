@@ -1,4 +1,5 @@
 require_relative 'network/auth'
+require 'json'
 
 module Groove
 	class Network
@@ -39,9 +40,9 @@ module Groove
 
 		def getFriendMusicList friend_id
 			request(FDMCLIST + "?hash=#{friend_id}")[:music_list]
-		end
+		end  
 
-		def getFriendMusicDetail music_id,friend_id
+		def getFriendMusicDetail friend_id,music_id
 			request(FDMCDATA + "?hash=#{friend_id}&music_id=#{music_id}")[:music_detail]
 		end
 

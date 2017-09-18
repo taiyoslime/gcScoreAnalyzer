@@ -4,8 +4,6 @@ require_relative 'io'
 
 module Groove
 	class App
-		attr_reader :music_list
-
 		def initialize agent
 			@network = Network.new agent
 			@music_list = @network.getMusicList
@@ -133,7 +131,7 @@ module Groove
   		# 	}
 
 		def getScoreDetail music_id
-			music_id.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid) ; result }
+			res = [music_id].flatten.reduce( [] ) { |result,mcid| result << @network.getMusicDetail(mcid)}
 		end
 
 		def getWorldRankData id,diff,num
@@ -150,7 +148,7 @@ module Groove
 		end
 
 		def getFriendScoreDetail friend_id,music_id
-			@network.getFriendScore friend_id,music_id
+			@network.getFriendMusicDetail friend_id,music_id
 		end
 
 	end
