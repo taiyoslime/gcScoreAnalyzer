@@ -3,7 +3,7 @@
 
 ## Overview
 
-GROOVE COASTER 3EX™ のスコアサーバー(https://mypage.groovecoaster.jp) データー収集統計ツール
+GROOVE COASTER 3EX™ のスコアサーバー(https://mypage.groovecoaster.jp) からのデータ収集・統計ツール
 
 ## Installation
 
@@ -29,12 +29,9 @@ $ bundle config build.nokogiri --use-system-libraries
 
 ```ruby
 require "groove"
+groove = Groove::init ARGV[0], ARGV[1]
 
-necica_id = XXXXXXXXXXXX
-pasword = XXXXXXXXXX
-
-# 初期化
-groove = Groove::init necica_id,password
+# ruby main.rb $NECIAID $PASSWORD
 ```
 
 ## Methods

@@ -7,7 +7,6 @@ require_relative "../../lib/groove"
 class NilClass; def method_missing(name, *args, &block)nil end;end
 
 # 認証
-#
 groove = Groove::init ARGV[0], ARGV[1]
 
 friend_list = groove.getFriendList
@@ -20,15 +19,15 @@ friend_music_detail = groove.getFriendMusicList(friend[:card_id]).reduce([]){|re
 }
 my_music_detail = groove.getMusicList.reduce([]){|res,e|
     res << groove.getScoreDetail(e[:music_id])
-}
+}.flatten
 
 result = my_music_detail.reduce([]){|res,e|
     Groove::RESULT[Groove::HARD,Groove::EXTRA].each{|diff|
-        my_score = e[0][diff][:score] || 0
-        friend_score = friend_music_detail.find{|el| el[:music_id] == e[0][:music_id]}[diff][:score] || 0
-        unless my_score == 0 and friend_music_detail == 0
+        my_score = e[diff][:score] || 0
+        friend_score = friend_music_detail.find{|el| el[:music_id] == e[:music_id]}[diff][:score] || 0
+        unless my_score == 0 and friend_score == 0
             res << {
-                music_title: e[0][:music_title],
+                music_title: e[:music_title],
                 difficulty: diff.to_s.sub(/_result_data/,"").upcase,
                 my_score:my_score,
                 friend_score:friend_score,
