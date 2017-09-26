@@ -28,7 +28,7 @@ result = my_music_detail.reduce([]){|res,e|
         unless my_score == 0 and friend_score == 0
             res << {
                 music_title: e[:music_title],
-                difficulty: diff.to_s.sub(/_result_data/,"").upcase,
+                difficulty: e[diff][:music_level],
                 my_score:my_score,
                 friend_score:friend_score,
                 diff:my_score-friend_score

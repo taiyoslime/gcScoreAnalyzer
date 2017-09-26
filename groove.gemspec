@@ -31,6 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "mechanize"
-  spec.add_development_dependency "lambda_driver"
-  spec.add_development_dependency "hash_mapper"
+  spec.add_development_dependency "rmagick"
+  # spec.add_development_dependency "lambda_driver"
+  # spec.add_development_dependency "hash_mapper"
 end

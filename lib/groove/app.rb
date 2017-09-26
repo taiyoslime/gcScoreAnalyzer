@@ -6,7 +6,7 @@ module Groove
 	class App
 		def initialize agent
 			@network = Network.new agent
-			@music_list = @network.getMusicList
+			# @music_list = @network.getMusicList
 			# @music_id = @music_list.collect{ |e| e[:music_id] }
 			puts "Initialization success."
 		end
